@@ -1,13 +1,7 @@
 Language: **English** | 
 [Português](README.pt.md) 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/github-header-banner.png" width="450px">
-  <source media="(prefers-color-scheme: light)" srcset="img/github-header-banner-dark.png">
-  <img width="450px" alt="banner">
-</picture>
-
-<p> Name's Matheus, I'm  18 years old and a <b>Computer Science student</b> in my 2nd semester.</p>
+   
+<p> Hello there, my name's Matheus, I'm  18 years old and a <b>Computer Science student</b> in my 2nd semester.</p>
 
 ---
 
