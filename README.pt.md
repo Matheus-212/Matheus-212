@@ -1,6 +1,9 @@
 Language: [English](README.md) | **Português**
 
-Olá, meu nome é Matheus, tenho 18 anos e eu sou estudante de Ciência da Computação e estou no meu 2° semestre.
+# Olá!
+<p>Meu nome é Matheus, tenho 18 anos e eu sou <b>estudante de Ciência da Computação</b> e estou no meu 2° semestre.</p>
+
+---
 
 ## Linguagens e ferramentas
 <p align="left">
@@ -32,6 +35,13 @@ Olá, meu nome é Matheus, tenho 18 anos e eu sou estudante de Ciência da Compu
 
 ---
 
+## Projetos em Destaque
+*   **[NIM-Game](https://github.com/Matheus-212/nim-game):** Um jogo de estratégia matemática para dois jogadores, desenvolvido em Python e focado em lógica pura e regras estruturadas.
+*   **[numtxt-sort-algorithms](https://github.com/Matheus-212/numtxt-sort-algorithms):** Uma implementação e estudo prático de algoritmos de ordenação, envolvendo a leitura e a geração de arquivos de texto (.txt), escrito na linguagem de programação C.
+
+---
+
 ### Contatos:
 [<picture><source media="(prefers-color-scheme: dark)" srcset="img/Mail.png"><img src="img/Mail-dark.png" width="35px" alt="E-mail"></picture>](mailto:mmendez.tech@gmail.com)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="img/linkedin.png"><img src="img/linkedin-dark.png" width="35px" alt="LinkedIn"></picture>](https://www.linkedin.com/in/matheusmendes-dev212)
+

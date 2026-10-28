@@ -1,7 +1,8 @@
-Language: **English** | 
-[Português](README.pt.md) 
-   
-<p> Hello there, my name's Matheus, I'm  18 years old and a <b>Computer Science student</b> in my 2nd semester.</p>
+Language: **English** |
+[Português](README.pt.md)
+
+# Hello there
+<p> My name's Matheus, I'm  18 years old and a <b>Computer Science student</b> in my 2nd semester.</p>
 
 ---
 
@@ -35,6 +36,14 @@ Language: **English** |
 
 ---
 
+## Featured Projects
+
+*   **[NIM-Game](https://github.com/Matheus-212/nim-game):** A mathematical strategy game for two players, developed in Python and focused on pure logic and structured rules.
+*   **[numtxt-sort-algorithms](https://github.com/Matheus-212/numtxt-sort-algorithms):** An implementation and practical study of sorting algorithms, involving the reading and generation of text (.txt) files, written in the C programming language.
+
+---
+
 ### Contacts:
 [<picture><source media="(prefers-color-scheme: dark)" srcset="img/Mail.png"><img src="img/Mail-dark.png" width="35px" alt="E-mail"></picture>](mailto:mmendez.tech@gmail.com)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="img/linkedin.png"><img src="img/linkedin-dark.png" width="35px" alt="LinkedIn"></picture>](https://www.linkedin.com/in/matheusmendes-dev212)
+
